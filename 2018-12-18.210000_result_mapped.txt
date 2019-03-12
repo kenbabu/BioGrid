@@ -1,0 +1,9 @@
+yourlist:M201812196746803381A1F0E0DB47453E0216320D0CA584S	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+131072	Q86XK7	VSIG1_HUMAN	reviewed	V-set and immunoglobulin domain-containing protein 1 (Cell surface A33 antigen) (Glycoprotein A34)	VSIG1 GPA34	Homo sapiens (Human)	387
+131079	Q5VW00	DC122_HUMAN	reviewed	DDB1- and CUL4-associated factor 12-like protein 2 (WD repeat-containing protein 40C)	DCAF12L2 WDR40C	Homo sapiens (Human)	463
+131082	Q6ZR62	RTL4_HUMAN	reviewed	Retrotransposon Gag-like protein 4 (Mammalian retrotransposon-derived protein 4) (Zinc finger CCHC domain-containing protein 16)	RTL4 MAR3 MART4 ZCCHC16	Homo sapiens (Human)	310
+131091	Q5GFL6	VWA2_HUMAN	reviewed	von Willebrand factor A domain-containing protein 2 (A domain-containing protein similar to matrilin and collagen) (AMACO) (Colon cancer secreted protein 2) (CCSP-2)	VWA2 AMACO	Homo sapiens (Human)	755
+131092	Q8WY41	NANO1_HUMAN	reviewed	Nanos homolog 1 (NOS-1) (EC_Rep1a)	NANOS1 NOS1	Homo sapiens (Human)	292
+131098	A6NHT5	HMX3_HUMAN	reviewed	Homeobox protein HMX3 (Homeobox protein H6 family member 3) (Homeobox protein Nkx-5.1)	HMX3 NKX-5.1 NKX5-1	Homo sapiens (Human)	357
+131110	Q6ZRI0	OTOG_HUMAN	reviewed	Otogelin	OTOG OTGN	Homo sapiens (Human)	2925
+131112	P59894	DCDC1_HUMAN	reviewed	Doublecortin domain-containing protein 1	DCDC1	Homo sapiens (Human)	354

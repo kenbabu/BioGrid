@@ -1,0 +1,328 @@
+yourlist:M201812188471C63D39733769F8E060B506551E1201F3EBJ	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+131072	Q86XK7	VSIG1_HUMAN	reviewed	V-set and immunoglobulin domain-containing protein 1 (Cell surface A33 antigen) (Glycoprotein A34)	VSIG1 GPA34	Homo sapiens (Human)	387
+131079	Q5VW00	DC122_HUMAN	reviewed	DDB1- and CUL4-associated factor 12-like protein 2 (WD repeat-containing protein 40C)	DCAF12L2 WDR40C	Homo sapiens (Human)	463
+131082	Q6ZR62	RTL4_HUMAN	reviewed	Retrotransposon Gag-like protein 4 (Mammalian retrotransposon-derived protein 4) (Zinc finger CCHC domain-containing protein 16)	RTL4 MAR3 MART4 ZCCHC16	Homo sapiens (Human)	310
+131091	Q5GFL6	VWA2_HUMAN	reviewed	von Willebrand factor A domain-containing protein 2 (A domain-containing protein similar to matrilin and collagen) (AMACO) (Colon cancer secreted protein 2) (CCSP-2)	VWA2 AMACO	Homo sapiens (Human)	755
+131092	Q8WY41	NANO1_HUMAN	reviewed	Nanos homolog 1 (NOS-1) (EC_Rep1a)	NANOS1 NOS1	Homo sapiens (Human)	292
+131098	A6NHT5	HMX3_HUMAN	reviewed	Homeobox protein HMX3 (Homeobox protein H6 family member 3) (Homeobox protein Nkx-5.1)	HMX3 NKX-5.1 NKX5-1	Homo sapiens (Human)	357
+131110	Q6ZRI0	OTOG_HUMAN	reviewed	Otogelin	OTOG OTGN	Homo sapiens (Human)	2925
+131112	P59894	DCDC1_HUMAN	reviewed	Doublecortin domain-containing protein 1	DCDC1	Homo sapiens (Human)	354
+131113	Q8IXP5	CK053_HUMAN	reviewed	Uncharacterized protein C11orf53	C11orf53	Homo sapiens (Human)	236
+131121	Q6MZM0	HPHL1_HUMAN	reviewed	Hephaestin-like protein 1 (EC 1.-.-.-)	HEPHL1	Homo sapiens (Human)	1159
+131131	Q6XYQ8	SYT10_HUMAN	reviewed	Synaptotagmin-10 (Synaptotagmin X) (SytX)	SYT10	Homo sapiens (Human)	523
+131135	P0C7M7	ACSM4_HUMAN	reviewed	Acyl-coenzyme A synthetase ACSM4, mitochondrial (EC 6.2.1.2) (Acyl-CoA synthetase medium-chain family member 4)	ACSM4	Homo sapiens (Human)	580
+131143	Q75WM6	H1FNT_HUMAN	reviewed	Testis-specific H1 histone (Haploid germ cell-specific nuclear protein 1) (Histone H1t2)	H1FNT HANP1	Homo sapiens (Human)	255
+131147	Q5SZK8	FREM2_HUMAN	reviewed	FRAS1-related extracellular matrix protein 2 (ECM3 homolog)	FREM2	Homo sapiens (Human)	3169
+131150	Q6P3R8	NEK5_HUMAN	reviewed	Serine/threonine-protein kinase Nek5 (EC 2.7.11.1) (Never in mitosis A-related kinase 5) (NimA-related protein kinase 5)	NEK5	Homo sapiens (Human)	708
+131163	Q9NYA3	GOG6A_HUMAN	reviewed	Golgin subfamily A member 6A (Golgin linked to PML) (Golgin-like protein)	GOLGA6A GLP GOLGA6	Homo sapiens (Human)	693
+131165	Q6NX45	ZN774_HUMAN	reviewed	Zinc finger protein 774	ZNF774	Homo sapiens (Human)	483
+131167	Q68DA7	FMN1_HUMAN	reviewed	Formin-1 (Limb deformity protein homolog)	FMN1 FMN LD	Homo sapiens (Human)	1419
+131169	A6NNT2	CP096_HUMAN	reviewed	Uncharacterized protein C16orf96	C16orf96	Homo sapiens (Human)	1141
+131170	Q63HK3	ZKSC2_HUMAN	reviewed	Zinc finger protein with KRAB and SCAN domains 2 (Zinc finger protein 694)	ZKSCAN2 ZNF694	Homo sapiens (Human)	967
+131172	P0C7T5	ATX1L_HUMAN	reviewed	Ataxin-1-like (Brother of ataxin-1) (Brother of ATXN1)	ATXN1L BOAT BOAT1	Homo sapiens (Human)	689
+131173	Q7Z443	PK1L3_HUMAN	reviewed	Polycystic kidney disease protein 1-like 3 (PC1-like 3 protein) (Polycystin-1L3)	PKD1L3	Homo sapiens (Human)	1732
+131180	Q496F6	CLM2_HUMAN	reviewed	CMRF35-like molecule 2 (CLM-2) (CD300 antigen-like family member E) (CMRF35-A5) (Immune receptor expressed on myeloid cells 2) (IREM-2) (Polymeric immunoglobulin receptor 2) (PIgR-2) (PIgR2) (Poly-Ig receptor 2) (CD antigen CD300e)	CD300E CD300LE CLM2 CMRF35A5 IREM2	Homo sapiens (Human)	205
+131181	Q2TAL5	SMTL2_HUMAN	reviewed	Smoothelin-like protein 2	SMTNL2	Homo sapiens (Human)	461
+131183	Q9H009	NACA2_HUMAN	reviewed	Nascent polypeptide-associated complex subunit alpha-2 (Alpha-NAC-like) (Hom s 2.01) (Nascent polypeptide-associated complex subunit alpha-like) (NAC-alpha-like)	NACA2 NACAL	Homo sapiens (Human)	215
+131185	Q7Z3Y8	K1C27_HUMAN	reviewed	Keratin, type I cytoskeletal 27 (Cytokeratin-27) (CK-27) (Keratin-25C) (K25C) (Keratin-27) (K27) (Type I inner root sheath-specific keratin-K25irs3)	KRT27 KRT25C	Homo sapiens (Human)	459
+131188	Q6IEE8	SN12L_HUMAN	reviewed	Schlafen family member 12-like	SLFN12L SLFN5	Homo sapiens (Human)	588
+131192	Q6ZMT1	STAC2_HUMAN	reviewed	SH3 and cysteine-rich domain-containing protein 2 (24b2/STAC2) (Src homology 3 and cysteine-rich domain-containing protein 2)	STAC2	Homo sapiens (Human)	411
+131204	Q6ZVX7	FBX50_HUMAN	reviewed	F-box only protein 50 (NCC receptor protein 1 homolog) (NCCRP-1) (Non-specific cytotoxic cell receptor protein 1 homolog)	NCCRP1 FBXO50	Homo sapiens (Human)	275
+131207	Q494X3	ZN404_HUMAN	reviewed	Zinc finger protein 404	ZNF404	Homo sapiens (Human)	552
+131208	Q2VY69	ZN284_HUMAN	reviewed	Zinc finger protein 284	ZNF284 ZNF284L	Homo sapiens (Human)	593
+131210	Q86XU0	ZN677_HUMAN	reviewed	Zinc finger protein 677	ZNF677	Homo sapiens (Human)	584
+131211	A6NLU0	RFPLA_HUMAN	reviewed	Ret finger protein-like 4A (RING finger protein 210)	RFPL4A RFPL4 RNF210	Homo sapiens (Human)	287
+131214	P10073	ZSC22_HUMAN	reviewed	Zinc finger and SCAN domain-containing protein 22 (Krueppel-related zinc finger protein 2) (Protein HKR2) (Zinc finger protein 50)	ZSCAN22 HKR2 ZNF50	Homo sapiens (Human)	491
+131219	P60323	NANO3_HUMAN	reviewed	Nanos homolog 3 (NOS-3)	NANOS3 NOS3	Homo sapiens (Human)	173
+131220	A6NDB9	PALM3_HUMAN	reviewed	Paralemmin-3	PALM3	Homo sapiens (Human)	673
+131222	Q7Z3Z2	RD3_HUMAN	reviewed	Protein RD3 (Retinal degeneration protein 3)	RD3 C1orf36	Homo sapiens (Human)	195
+131227	O60812	HNRC1_HUMAN	reviewed	Heterogeneous nuclear ribonucleoprotein C-like 1 (hnRNP C-like-1) (hnRNP core protein C-like 1)	HNRNPCL1 HNRPCL1	Homo sapiens (Human)	293
+131230	Q5T9S5	CCD18_HUMAN	reviewed	Coiled-coil domain-containing protein 18 (Sarcoma antigen NY-SAR-24)	CCDC18	Homo sapiens (Human)	1454
+131235	Q7Z3T1	OR2W3_HUMAN	reviewed	Olfactory receptor 2W3 (Olfactory receptor 2W8) (Olfactory receptor OR1-49)	OR2W3 OR2W3P OR2W8P	Homo sapiens (Human)	314
+131240	A2RUH7	MBPHL_HUMAN	reviewed	Myosin-binding protein H-like	MYBPHL	Homo sapiens (Human)	354
+131252	Q6UVM3	KCNT2_HUMAN	reviewed	Potassium channel subfamily T member 2 (Sequence like an intermediate conductance potassium channel subunit) (Sodium and chloride-activated ATP-sensitive potassium channel Slo2.1)	KCNT2 SLICK	Homo sapiens (Human)	1135
+131253	Q9NY43	BARH2_HUMAN	reviewed	BarH-like 2 homeobox protein	BARHL2	Homo sapiens (Human)	387
+131262	Q5JR98	TC1D4_HUMAN	reviewed	Tctex1 domain-containing protein 4 (Protein N22.1) (Tctex-2-beta)	TCTEX1D4	Homo sapiens (Human)	221
+131268	Q2I0M5	RSPO4_HUMAN	reviewed	R-spondin-4 (Roof plate-specific spondin-4) (hRspo4)	RSPO4 C20orf182	Homo sapiens (Human)	234
+131288	O14513	NCKP5_HUMAN	reviewed	Nck-associated protein 5 (NAP-5) (Peripheral clock protein)	NCKAP5 ERIH NAP5	Homo sapiens (Human)	1909
+131301	Q5MAI5	CDKL4_HUMAN	reviewed	Cyclin-dependent kinase-like 4 (EC 2.7.11.22)	CDKL4	Homo sapiens (Human)	379
+131307	Q8TEJ3	SH3R3_HUMAN	reviewed	E3 ubiquitin-protein ligase SH3RF3 (EC 2.3.2.27) (Plenty of SH3s 2) (SH3 domain-containing RING finger protein 3) (SH3 multiple domains protein 4)	SH3RF3 POSH2 SH3MD4	Homo sapiens (Human)	882
+131313	A6NIV6	LRIQ4_HUMAN	reviewed	Leucine-rich repeat and IQ domain-containing protein 4 (Leucine-rich repeat-containing protein 64)	LRRIQ4 LRRC64	Homo sapiens (Human)	560
+131314	Q7Z3H4	SAMD7_HUMAN	reviewed	Sterile alpha motif domain-containing protein 7 (SAM domain-containing protein 7)	SAMD7	Homo sapiens (Human)	446
+131320	Q86SP6	GP149_HUMAN	reviewed	Probable G-protein coupled receptor 149 (G-protein coupled receptor PGR10)	GPR149 PGR10	Homo sapiens (Human)	731
+131322	A6NHJ4	ZN860_HUMAN	reviewed	Zinc finger protein 860	ZNF860	Homo sapiens (Human)	632
+131331	Q5QGT7	RTP2_HUMAN	reviewed	Receptor-transporting protein 2 (3CxxC-type zinc finger protein 2)	RTP2 Z3CXXC2	Homo sapiens (Human)	225
+131340	Q7RTY5	PRS48_HUMAN	reviewed	Serine protease 48 (EC 3.4.21.-) (Epidermis-specific serine protease-like protein)	PRSS48 ESSPL	Homo sapiens (Human)	328
+131346	Q7Z5P4	DHB13_HUMAN	reviewed	17-beta-hydroxysteroid dehydrogenase 13 (17-beta-HSD 13) (EC 1.1.-.-) (Short chain dehydrogenase/reductase family 16C member 3) (Short-chain dehydrogenase/reductase 9)	HSD17B13 SCDR9 SDR16C3 HMFN0376 UNQ497/PRO1014	Homo sapiens (Human)	300
+131358	A1A4Y4	IRGM_HUMAN	reviewed	Immunity-related GTPase family M protein (EC 3.6.5.-) (Immunity-related GTPase family M protein 1) (Interferon-inducible protein 1) (LPS-stimulated RAW 264.7 macrophage protein 47 homolog) (LRG-47)	IRGM IFI1 IRGM1 LRG47	Homo sapiens (Human)	181
+131360	D6RGH6	MCIN_HUMAN	reviewed	Multicilin (Multiciliate differentiation and DNA synthesis-associated cell cycle protein) (McIdas protein) (Protein Idas)	MCIDAS IDAS MCI MCIN	Homo sapiens (Human)	385
+131362	Q562R1	ACTBL_HUMAN	reviewed	Beta-actin-like protein 2 (Kappa-actin)	ACTBL2	Homo sapiens (Human)	376
+131364	Q8TBP5	F174A_HUMAN	reviewed	Membrane protein FAM174A (Hepatitis C virus NS5A-transactivated protein 6) (HCV NS5A-transactivated protein 6) (Transmembrane protein 157)	FAM174A NS5ATP6 TMEM157 UNQ1912/PRO4371	Homo sapiens (Human)	190
+131365	Q5HYI7	MTX3_HUMAN	reviewed	Metaxin-3	MTX3	Homo sapiens (Human)	312
+131369	Q008S8	ECT2L_HUMAN	reviewed	Epithelial cell-transforming sequence 2 oncogene-like (Lung-specific F-box and DH domain-containing protein) (Putative guanine nucleotide exchange factor LFDH)	ECT2L C6orf91 LFDH	Homo sapiens (Human)	904
+131371	Q5T1H1	EYS_HUMAN	reviewed	Protein eyes shut homolog (Epidermal growth factor-like protein 10) (EGF-like protein 10) (Epidermal growth factor-like protein 11) (EGF-like protein 11) (Protein spacemaker homolog)	EYS C6orf178 C6orf179 C6orf180 EGFL10 EGFL11 SPAM UNQ9424/PRO34591	Homo sapiens (Human)	3165
+131374	Q9UJN7	ZN391_HUMAN	reviewed	Zinc finger protein 391	ZNF391	Homo sapiens (Human)	358
+131375	Q9NU63	ZFP57_HUMAN	reviewed	Zinc finger protein 57 homolog (Zfp-57) (Zinc finger protein 698)	ZFP57 C6orf40 ZNF698	Homo sapiens (Human)	452
+131376	Q6ZU15	SEP14_HUMAN	reviewed	Septin-14	SEPT14	Homo sapiens (Human)	432
+131381	Q6ZN28	MACC1_HUMAN	reviewed	Metastasis-associated in colon cancer protein 1 (SH3 domain-containing protein 7a5)	MACC1	Homo sapiens (Human)	852
+131390	A8MTJ3	GNAT3_HUMAN	reviewed	Guanine nucleotide-binding protein G(t) subunit alpha-3 (Gustducin alpha-3 chain)	GNAT3	Homo sapiens (Human)	354
+131392	Q86VF5	MOGT3_HUMAN	reviewed	2-acylglycerol O-acyltransferase 3 (EC 2.3.1.20) (EC 2.3.1.22) (Acyl-CoA:monoacylglycerol acyltransferase 3) (MGAT3) (Diacylglycerol O-acyltransferase candidate 7) (hDC7) (Diacylglycerol acyltransferase 2-like protein 7) (Monoacylglycerol O-acyltransferase 3)	MOGAT3 DC7 DGAT2L7 UNQ9383/PRO34208	Homo sapiens (Human)	341
+131394	Q6NXP2	F71F2_HUMAN	reviewed	Protein FAM71F2 (Protein FAM137B)	FAM71F2 FAM137B	Homo sapiens (Human)	309
+131397	A4D1S0	KLRG2_HUMAN	reviewed	Killer cell lectin-like receptor subfamily G member 2 (C-type lectin domain family 15 member B)	KLRG2 CLEC15B	Homo sapiens (Human)	409
+131415	Q5T7B8	KIF24_HUMAN	reviewed	Kinesin-like protein KIF24	KIF24 C9orf48	Homo sapiens (Human)	1368
+131419	Q5BKX8	CAVN4_HUMAN	reviewed	Caveolae-associated protein 4 (Muscle-related coiled-coil protein) (Muscle-restricted coiled-coil protein)	CAVIN4 MURC	Homo sapiens (Human)	364
+131424	P51508	ZNF81_HUMAN	reviewed	Zinc finger protein 81 (HFZ20)	ZNF81	Homo sapiens (Human)	661
+131446	Q5JT25	RAB41_HUMAN	reviewed	Ras-related protein Rab-41	RAB41	Homo sapiens (Human)	222
+131462	Q3ZCM7	TBB8_HUMAN	reviewed	Tubulin beta-8 chain (Tubulin beta 8 class VIII)	TUBB8	Homo sapiens (Human)	444
+131480	Q86UE6	LRRT1_HUMAN	reviewed	Leucine-rich repeat transmembrane neuronal protein 1	LRRTM1 UNQ675/PRO1309	Homo sapiens (Human)	522
+131481	Q86VH5	LRRT3_HUMAN	reviewed	Leucine-rich repeat transmembrane neuronal protein 3	LRRTM3 UNQ803/PRO1693	Homo sapiens (Human)	581
+131483	Q9BVA1	TBB2B_HUMAN	reviewed	Tubulin beta-2B chain	TUBB2B	Homo sapiens (Human)	445
+131484	Q8TB61	S35B2_HUMAN	reviewed	Adenosine 3'-phospho 5'-phosphosulfate transporter 1 (PAPS transporter 1) (Putative MAPK-activating protein PM15) (Putative NF-kappa-B-activating protein 48) (Solute carrier family 35 member B2)	SLC35B2 PAPST1 PSEC0149	Homo sapiens (Human)	432
+131485	Q96SA4	SERC2_HUMAN	reviewed	Serine incorporator 2 (Tumor differentially expressed protein 2-like)	SERINC2 TDE2L FKSG84 UNQ263/PRO300	Homo sapiens (Human)	455
+131494	O75333	TBX10_HUMAN	reviewed	T-box transcription factor TBX10 (T-box protein 10)	TBX10 TBX7	Homo sapiens (Human)	385
+131495	Q8NB37	GALD1_HUMAN	reviewed	Glutamine amidotransferase-like class 1 domain-containing protein 1 (Parkinson disease 7 domain-containing protein 1)	GATD1 PDDC1	Homo sapiens (Human)	220
+131497	Q86SJ2	AMGO2_HUMAN	reviewed	Amphoterin-induced protein 2 (AMIGO-2) (Alivin-1) (Differentially expressed in gastric adenocarcinomas) (DEGA)	AMIGO2 ALI1	Homo sapiens (Human)	522
+131501	Q8WV15	T255B_HUMAN	reviewed	Transmembrane protein 255B (Protein FAM70B)	TMEM255B FAM70B	Homo sapiens (Human)	326
+131505	Q6ZRY4	RBPS2_HUMAN	reviewed	RNA-binding protein with multiple splicing 2	RBPMS2	Homo sapiens (Human)	209
+131506	Q495B1	AKD1A_HUMAN	reviewed	Ankyrin repeat and death domain-containing protein 1A	ANKDD1A	Homo sapiens (Human)	522
+131507	Q7Z6K5	ARPIN_HUMAN	reviewed	Arpin (Arp2/3 inhibition protein)	ARPIN C15orf38	Homo sapiens (Human)	226
+131512	A5D8T8	CL18A_HUMAN	reviewed	C-type lectin domain family 18 member A (Mannose receptor-like protein 2)	CLEC18A MRLP2	Homo sapiens (Human)	446
+131513	Q2VPK5	CTU2_HUMAN	reviewed	Cytoplasmic tRNA 2-thiolation protein 2 (Cytosolic thiouridylase subunit 2)	CTU2 C16orf84 NCS2	Homo sapiens (Human)	515
+131515	Q8WVK7	SKA2_HUMAN	reviewed	Spindle and kinetochore-associated protein 2 (Protein FAM33A)	SKA2 FAM33A	Homo sapiens (Human)	121
+131518	C9JLW8	MCRI1_HUMAN	reviewed	Mapk-regulated corepressor-interacting protein 1 (Granulin-2) (Protein FAM195B)	MCRIP1 FAM195B GRAN2	Homo sapiens (Human)	97
+131519	P59797	SELV_HUMAN	reviewed	Selenoprotein V (SelV)	SELENOV SELV	Homo sapiens (Human)	346
+131523	Q96AQ9	F131C_HUMAN	reviewed	Protein FAM131C	FAM131C C1orf117	Homo sapiens (Human)	280
+131526	Q17RS7	GEN_HUMAN	reviewed	Flap endonuclease GEN homolog 1 (EC 3.1.-.-)	GEN1	Homo sapiens (Human)	908
+131528	Q96LS8	CB048_HUMAN	reviewed	Uncharacterized protein C2orf48	C2orf48	Homo sapiens (Human)	159
+131531	Q7Z5U6	WDR53_HUMAN	reviewed	WD repeat-containing protein 53	WDR53	Homo sapiens (Human)	358
+131532	A1A4G5	LNP1_HUMAN	reviewed	Leukemia NUP98 fusion partner 1	LNP1 NP3	Homo sapiens (Human)	178
+131533	Q494V2	CP100_HUMAN	reviewed	Cilia- and flagella-associated protein 100 (Coiled-coil domain-containing protein 37)	CFAP100 CCDC37	Homo sapiens (Human)	611
+131541	Q0D2K0	NIPA4_HUMAN	reviewed	Magnesium transporter NIPA4 (Ichthyin) (NIPA-like protein 4) (Non-imprinted in Prader-Willi/Angelman syndrome region protein 4)	NIPAL4 ICHN NIPA4	Homo sapiens (Human)	466
+131543	O60741	HCN1_HUMAN	reviewed	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1 (Brain cyclic nucleotide-gated channel 1) (BCNG-1)	HCN1 BCNG1	Homo sapiens (Human)	890
+131544	Q8NFH3	NUP43_HUMAN	reviewed	Nucleoporin Nup43 (Nup107-160 subcomplex subunit Nup43) (p42)	NUP43	Homo sapiens (Human)	380
+131546	Q8N859	ZN713_HUMAN	reviewed	Zinc finger protein 713	ZNF713	Homo sapiens (Human)	430
+131548	Q86TI4	WDR86_HUMAN	reviewed	WD repeat-containing protein 86	WDR86	Homo sapiens (Human)	376
+131564	Q96T66	NMNA3_HUMAN	reviewed	Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 3 (NMN/NaMN adenylyltransferase 3) (Nicotinamide-nucleotide adenylyltransferase 3) (NMN adenylyltransferase 3) (Nicotinate-nucleotide adenylyltransferase 3) (NaMN adenylyltransferase 3) (EC 2.7.7.18) (Pyridine nucleotide adenylyltransferase 3) (PNAT-3) (EC 2.7.7.1)	NMNAT3 FKSG76	Homo sapiens (Human)	252
+131566	Q86UN3	R4RL2_HUMAN	reviewed	Reticulon-4 receptor-like 2 (Nogo receptor-like 3) (Nogo-66 receptor homolog 1) (Nogo-66 receptor-related protein 2) (NgR2)	RTN4RL2 NGRH1 NGRL3	Homo sapiens (Human)	420
+131570	Q7Z601	GP142_HUMAN	reviewed	Probable G-protein coupled receptor 142 (G-protein coupled receptor PGR2)	GPR142 PGR2	Homo sapiens (Human)	462
+131582	Q8N9W5	DAAF3_HUMAN	reviewed	Dynein assembly factor 3, axonemal	DNAAF3 C19orf51	Homo sapiens (Human)	541
+131583	Q8NAP1	CAST3_HUMAN	reviewed	Putative protein CASTOR 3 (STAG3 opposite strand transcript protein)	CASTOR3 GATS STAG3OS	Homo sapiens (Human)	163
+131603	Q6P5S2	LEG1H_HUMAN	reviewed	Protein LEG1 homolog	LEG1 C6orf58	Homo sapiens (Human)	330
+131631	Q5EBL4	RIPL1_HUMAN	reviewed	RILP-like protein 1 (Rab-interacting lysosomal-like protein 1)	RILPL1 RLP1	Homo sapiens (Human)	403
+131639	Q5T7P3	LCE1B_HUMAN	reviewed	Late cornified envelope protein 1B (Late envelope protein 2) (Small proline-rich-like epidermal differentiation complex protein 2A)	LCE1B LEP2 SPRL2A	Homo sapiens (Human)	118
+131645	Q5TA79	LCE2A_HUMAN	reviewed	Late cornified envelope protein 2A (Late envelope protein 9)	LCE2A LEP9	Homo sapiens (Human)	106
+131647	Q5TA82	LCE2D_HUMAN	reviewed	Late cornified envelope protein 2D (Late envelope protein 12) (Small proline-rich-like epidermal differentiation complex protein 1A)	LCE2D LEP12 SPRL1A	Homo sapiens (Human)	110
+131648	Q5TA76	LCE3A_HUMAN	reviewed	Late cornified envelope protein 3A (Late envelope protein 13)	LCE3A LEP13	Homo sapiens (Human)	89
+131650	Q5T5A8	LCE3C_HUMAN	reviewed	Late cornified envelope protein 3C (Late envelope protein 15) (Small proline-rich-like epidermal differentiation complex protein 3A)	LCE3C LEP15 SPRL3A	Homo sapiens (Human)	94
+131651	Q5T5B0	LCE3E_HUMAN	reviewed	Late cornified envelope protein 3E (Late envelope protein 17)	LCE3E LEP17	Homo sapiens (Human)	92
+131653	Q86UD7	TBC26_HUMAN	reviewed	TBC1 domain family member 26	TBC1D26	Homo sapiens (Human)	250
+131658	Q401N2	ZACN_HUMAN	reviewed	Zinc-activated ligand-gated ion channel (Ligand-gated ion channel zinc-activated 1) (Ligand-gated ion-channel receptor L2)	ZACN L2 LGICZ LGICZ1 ZAC	Homo sapiens (Human)	412
+131662	Q6ZQN7	SO4C1_HUMAN	reviewed	Solute carrier organic anion transporter family member 4C1 (OATP-H) (Organic anion transporter M1) (OATP-M1) (Solute carrier family 21 member 20)	SLCO4C1 OATP4C1 OATPX SLC21A20	Homo sapiens (Human)	724
+131666	Q9UBP8	KAAG1_HUMAN	reviewed	Kidney-associated antigen 1 (RU2 antisense gene protein)	KAAG1 RU2AS	Homo sapiens (Human)	84
+131672	P59923	ZN445_HUMAN	reviewed	Zinc finger protein 445 (Zinc finger protein 168) (Zinc finger protein with KRAB and SCAN domains 15)	ZNF445 ZKSCAN15 ZNF168	Homo sapiens (Human)	1031
+131677	Q7Z3Y9	K1C26_HUMAN	reviewed	Keratin, type I cytoskeletal 26 (Cytokeratin-26) (CK-26) (Keratin-25B) (K25B) (Keratin-26) (K26) (Type I inner root sheath-specific keratin-K25irs2)	KRT26 KRT25B	Homo sapiens (Human)	468
+131681	A5PLK6	RGSL_HUMAN	reviewed	Regulator of G-protein signaling protein-like	RGSL1 RGSL RGSL2	Homo sapiens (Human)	1076
+131684	P59991	KR122_HUMAN	reviewed	Keratin-associated protein 12-2 (High sulfur keratin-associated protein 12.2) (Keratin-associated protein 12.2)	KRTAP12-2 KAP12.2 KRTAP12.2	Homo sapiens (Human)	146
+131685	Q7Z6I5	SPT12_HUMAN	reviewed	Spermatogenesis-associated protein 12 (Spermatogenesis-related protein 5)	SPATA12 SRG5	Homo sapiens (Human)	190
+131687	P59990	KR121_HUMAN	reviewed	Keratin-associated protein 12-1 (High sulfur keratin-associated protein 12.1) (Keratin-associated protein 12.1)	KRTAP12-1 KAP12.1 KRTAP12.1	Homo sapiens (Human)	96
+131689	Q7Z602	GP141_HUMAN	reviewed	Probable G-protein coupled receptor 141 (G-protein coupled receptor PGR13)	GPR141 PGR13	Homo sapiens (Human)	305
+131691	A6NK53	ZN233_HUMAN	reviewed	Zinc finger protein 233	ZNF233	Homo sapiens (Human)	670
+131694	Q86XR7	TCAM2_HUMAN	reviewed	TIR domain-containing adapter molecule 2 (TICAM-2) (Putative NF-kappa-B-activating protein 502) (TRIF-related adapter molecule) (Toll-like receptor adaptor protein 3) (Toll/interleukin-1 receptor domain-containing protein) (MyD88-4)	TICAM2 TIRAP3 TIRP TRAM	Homo sapiens (Human)	235
+131695	Q7Z5Q5	DPOLN_HUMAN	reviewed	DNA polymerase nu (EC 2.7.7.7)	POLN	Homo sapiens (Human)	900
+131701	O14598	VCY1_HUMAN	reviewed	Testis-specific basic protein Y 1 (Basic charge, Y-linked 1) (Variably charged protein Y)	VCY BPY1 VCY1A; VCY1B BPY1B	Homo sapiens (Human)	125
+131704	P59826	BPIB3_HUMAN	reviewed	BPI fold-containing family B member 3 (Ligand-binding protein RYA3) (Long palate, lung and nasal epithelium carcinoma-associated protein 3)	BPIFB3 C20orf185 LPLUNC3	Homo sapiens (Human)	476
+131787	Q8N5W9	RFLB_HUMAN	reviewed	Refilin-B (Regulator of filamin protein B) (RefilinB)	RFLNB	Homo sapiens (Human)	214
+131797	Q7Z5L9	I2BP2_HUMAN	reviewed	Interferon regulatory factor 2-binding protein 2 (IRF-2-binding protein 2) (IRF-2BP2)	IRF2BP2	Homo sapiens (Human)	587
+131819	Q5SVQ8	ZBT41_HUMAN	reviewed	Zinc finger and BTB domain-containing protein 41	ZBTB41 FRBZ1	Homo sapiens (Human)	909
+131826	Q7Z5D8	NANGN_HUMAN	reviewed	NANOG neighbor homeobox (Homeobox protein C14)	NANOGNB	Homo sapiens (Human)	188
+131875	Q9Y2Q3	GSTK1_HUMAN	reviewed	Glutathione S-transferase kappa 1 (EC 2.5.1.18) (GST 13-13) (GST class-kappa) (GSTK1-1) (hGSTK1) (Glutathione S-transferase subunit 13)	GSTK1 HDCMD47P	Homo sapiens (Human)	226
+131884	Q70EL3	UBP50_HUMAN	reviewed	Inactive ubiquitin carboxyl-terminal hydrolase 50 (Inactive ubiquitin-specific peptidase 50)	USP50	Homo sapiens (Human)	339
+131887	Q8IYX4	DND1_HUMAN	reviewed	Dead end protein homolog 1 (RNA-binding motif, single-stranded-interacting protein 4)	DND1 RBMS4	Homo sapiens (Human)	353
+131889	O75251	NDUS7_HUMAN	reviewed	NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial (EC 1.6.99.3) (EC 7.1.1.2) (Complex I-20kD) (CI-20kD) (NADH-ubiquinone oxidoreductase 20 kDa subunit) (PSST subunit)	NDUFS7	Homo sapiens (Human)	213
+131892	Q8NBF2	NHLC2_HUMAN	reviewed	NHL repeat-containing protein 2	NHLRC2	Homo sapiens (Human)	726
+131893	P0C7W6	CC172_HUMAN	reviewed	Coiled-coil domain-containing protein 172	CCDC172 C10orf96	Homo sapiens (Human)	258
+131894	Q6P9A2	GLT18_HUMAN	reviewed	Polypeptide N-acetylgalactosaminyltransferase 18 (EC 2.4.1.41) (Polypeptide GalNAc transferase 18) (GalNAc-T18) (Polypeptide GalNAc transferase-like protein 4) (GalNAc-T-like protein 4) (pp-GaNTase-like protein 4) (Polypeptide N-acetylgalactosaminyltransferase-like protein 4) (Protein-UDP acetylgalactosaminyltransferase-like protein 4) (UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase-like protein 4)	GALNT18 GALNTL4	Homo sapiens (Human)	607
+131895	Q68D85	NR3L1_HUMAN	reviewed	Natural cytotoxicity triggering receptor 3 ligand 1 (B7 homolog 6) (B7-H6)	NCR3LG1 B7H6	Homo sapiens (Human)	454
+131897	Q6SJ93	F111B_HUMAN	reviewed	Protein FAM111B (Cancer-associated nucleoprotein)	FAM111B CANP	Homo sapiens (Human)	734
+131898	Q7Z7N9	T179B_HUMAN	reviewed	Transmembrane protein 179B	TMEM179B	Homo sapiens (Human)	219
+131899	Q8IV04	TB10C_HUMAN	reviewed	Carabin (TBC1 domain family member 10C)	TBC1D10C	Homo sapiens (Human)	446
+131903	Q7Z794	K2C1B_HUMAN	reviewed	Keratin, type II cytoskeletal 1b (Cytokeratin-1B) (CK-1B) (Keratin-77) (K77) (Type-II keratin Kb39)	KRT77 KRT1B	Homo sapiens (Human)	578
+131909	Q86U10	LPP60_HUMAN	reviewed	60 kDa lysophospholipase (EC 3.1.1.5) [Includes: L-asparaginase (EC 3.5.1.1) (L-asparagine amidohydrolase); Platelet-activating factor acetylhydrolase (PAF acetylhydrolase) (EC 3.1.1.47)]	ASPG C14orf76	Homo sapiens (Human)	573
+131910	Q8N6V9	TEX9_HUMAN	reviewed	Testis-expressed protein 9	TEX9	Homo sapiens (Human)	391
+131912	Q2M1P5	KIF7_HUMAN	reviewed	Kinesin-like protein KIF7	KIF7 UNQ340/PRO539	Homo sapiens (Human)	1343
+131914	Q8N4P3	MESH1_HUMAN	reviewed	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase MESH1 (EC 3.1.7.2) (HD domain-containing protein 3) (Metazoan SpoT homolog 1) (MESH1) (Penta-phosphate guanosine-3'-pyrophosphohydrolase) ((ppGpp)ase)	HDDC3 MESH1	Homo sapiens (Human)	179
+131919	Q6URK8	TEPP_HUMAN	reviewed	Testis, prostate and placenta-expressed protein	TEPP	Homo sapiens (Human)	271
+131920	Q8N4L4	SPEM1_HUMAN	reviewed	Spermatid maturation protein 1	SPEM1 C17orf83	Homo sapiens (Human)	309
+131923	Q9BXX2	AN30B_HUMAN	reviewed	Ankyrin repeat domain-containing protein 30B (Serologically defined breast cancer antigen NY-BR-1.1)	ANKRD30B	Homo sapiens (Human)	1392
+131925	O43861	ATP9B_HUMAN	reviewed	Probable phospholipid-transporting ATPase IIB (EC 7.6.2.1) (ATPase class II type 9B)	ATP9B ATPIIB NEO1L HUSSY-20	Homo sapiens (Human)	1147
+131927	Q7Z5J1	DHI1L_HUMAN	reviewed	Hydroxysteroid 11-beta-dehydrogenase 1-like protein (EC 1.1.1.-) (11-beta-hydroxysteroid dehydrogenase type 3) (11-DH3) (11-beta-HSD3) (Short chain dehydrogenase/reductase family 26C member 2) (Short-chain dehydrogenase/reductase 10)	HSD11B1L HSD3 SCDR10 SDR26C2	Homo sapiens (Human)	315
+131928	Q8NA69	TEX45_HUMAN	reviewed	Testis-expressed protein 45	TEX45 C19orf45	Homo sapiens (Human)	505
+131929	Q32M78	ZN699_HUMAN	reviewed	Zinc finger protein 699 (Hangover homolog)	ZNF699	Homo sapiens (Human)	642
+131930	Q6UW68	TM205_HUMAN	reviewed	Transmembrane protein 205	TMEM205 UNQ501/PRO1018	Homo sapiens (Human)	189
+131931	A6XGL0	YJEN3_HUMAN	reviewed	YjeF N-terminal domain-containing protein 3 (YjeF_N3) (hYjeF_N3)	YJEFN3	Homo sapiens (Human)	299
+131933	Q6UWP8	SBSN_HUMAN	reviewed	Suprabasin	SBSN UNQ698/PRO1343	Homo sapiens (Human)	590
+131934	Q3KNS6	ZN829_HUMAN	reviewed	Zinc finger protein 829	ZNF829	Homo sapiens (Human)	432
+131935	Q3ZCX4	ZN568_HUMAN	reviewed	Zinc finger protein 568	ZNF568	Homo sapiens (Human)	644
+131938	Q86XI8	ZSWM9_HUMAN	reviewed	Uncharacterized protein ZSWIM9	ZSWIM9 C19orf68	Homo sapiens (Human)	627
+131939	Q6PK81	ZN773_HUMAN	reviewed	Zinc finger protein 773 (Zinc finger protein 419B)	ZNF773 ZNF419B	Homo sapiens (Human)	442
+131941	Q7Z572	SPT21_HUMAN	reviewed	Spermatogenesis-associated protein 21	SPATA21	Homo sapiens (Human)	469
+131942	Q8N300	SVBP_HUMAN	reviewed	Small vasohibin-binding protein (Coiled coil domain-containing protein 23)	SVBP CCDC23	Homo sapiens (Human)	66
+131945	Q8NAN2	MIGA1_HUMAN	reviewed	Mitoguardin 1 (Protein FAM73A)	MIGA1 FAM73A	Homo sapiens (Human)	632
+131950	Q5VY43	PEAR1_HUMAN	reviewed	Platelet endothelial aggregation receptor 1 (hPEAR1) (Multiple epidermal growth factor-like domains protein 12) (Multiple EGF-like domains protein 12)	PEAR1 MEGF12	Homo sapiens (Human)	1037
+131951	O95562	SFT2B_HUMAN	reviewed	Vesicle transport protein SFT2B (SFT2 domain-containing protein 2)	SFT2D2 UNQ512/PRO1027	Homo sapiens (Human)	160
+131952	Q5JRA6	TGO1_HUMAN	reviewed	Transport and Golgi organization protein 1 homolog (TANGO1) (C219-reactive peptide) (D320) (Melanoma inhibitory activity protein 3)	MIA3 KIAA0268 TANGO UNQ6077/PRO20088	Homo sapiens (Human)	1907
+131954	Q96GI7	FA89A_HUMAN	reviewed	Protein FAM89A	FAM89A C1orf153	Homo sapiens (Human)	184
+131962	A6QL64	AN36A_HUMAN	reviewed	Ankyrin repeat domain-containing protein 36A	ANKRD36 ANKRD36A KIAA1641 UNQ2430/PRO499	Homo sapiens (Human)	1941
+131968	Q49MI3	CERKL_HUMAN	reviewed	Ceramide kinase-like protein	CERKL	Homo sapiens (Human)	558
+131969	Q7Z7H3	CATIP_HUMAN	reviewed	Ciliogenesis-associated TTC17-interacting protein	CATIP C2orf62	Homo sapiens (Human)	387
+131972	Q7Z7J7	LHPL4_HUMAN	reviewed	LHFPL tetraspan subfamily member 4 protein (GABAA receptor regulatory Lhfpl4) (Lipoma HMGIC fusion partner-like 4 protein)	LHFPL4 GARLH4	Homo sapiens (Human)	247
+131973	Q8N9V7	TOPZ1_HUMAN	reviewed	Protein TOPAZ1 (Testis- and ovary-specific PAZ domain-containing protein 1)	TOPAZ1 C3orf77	Homo sapiens (Human)	1692
+131974	Q6ZUJ4	CC062_HUMAN	reviewed	Uncharacterized protein C3orf62	C3orf62	Homo sapiens (Human)	267
+131978	Q86YC3	LRC33_HUMAN	reviewed	Transforming growth factor beta activator LRRC33 (Leucine-rich repeat-containing protein 33) (Negative regulator of reactive oxygen species)	NRROS LRRC33 UNQ3030/PRO9833	Homo sapiens (Human)	692
+131979	Q96MH7	CE034_HUMAN	reviewed	Uncharacterized protein C5orf34	C5orf34	Homo sapiens (Human)	638
+131980	O15021	MAST4_HUMAN	reviewed	Microtubule-associated serine/threonine-protein kinase 4 (EC 2.7.11.1)	MAST4 KIAA0303	Homo sapiens (Human)	2623
+131981	Q8NDZ2	SIMC1_HUMAN	reviewed	SUMO-interacting motif-containing protein 1	SIMC1 C5orf25	Homo sapiens (Human)	872
+131983	Q6PEY0	CXB7_HUMAN	reviewed	Gap junction beta-7 protein (Connexin-25) (Cx25)	GJB7 CX25	Homo sapiens (Human)	223
+131985	Q86UV7	TRI73_HUMAN	reviewed	Tripartite motif-containing protein 73 (Tripartite motif-containing protein 50B)	TRIM73 TRIM50B	Homo sapiens (Human)	250
+131987	Q8N8M0	NAT16_HUMAN	reviewed	Probable N-acetyltransferase 16 (EC 2.3.1.-)	NAT16 C7orf52	Homo sapiens (Human)	369
+131991	Q76KD6	SPERI_HUMAN	reviewed	Speriolin (Spermatogenesis and centriole-associated protein 1) (Spermatogenesis-associated protein 15) (Spermatogenic cell-specific Cdc20-binding protein)	SPATC1 SPATA15 SPRN	Homo sapiens (Human)	591
+131995	Q7Z6K3	PTAR1_HUMAN	reviewed	Protein prenyltransferase alpha subunit repeat-containing protein 1	PTAR1	Homo sapiens (Human)	402
+131996	Q5T890	ER6L2_HUMAN	reviewed	DNA excision repair protein ERCC-6-like 2 (EC 3.6.4.-) (DNA repair and recombination protein RAD26-like)	ERCC6L2 C9orf102 RAD26L	Homo sapiens (Human)	1561
+131997	Q1ZZU3	SWI5_HUMAN	reviewed	DNA repair protein SWI5 homolog (HBV DNAPTP1-transactivated protein A) (Protein SAE3 homolog)	SWI5 C9orf119 SAE3	Homo sapiens (Human)	235
+131998	Q5SZB4	CI050_HUMAN	reviewed	Uncharacterized protein C9orf50	C9orf50	Homo sapiens (Human)	431
+131999	Q6ZV29	PLPL7_HUMAN	reviewed	Patatin-like phospholipase domain-containing protein 7 (EC 3.1.1.-)	PNPLA7 C9orf111	Homo sapiens (Human)	1317
+132000	O00468	AGRIN_HUMAN	reviewed	Agrin [Cleaved into: Agrin N-terminal 110 kDa subunit; Agrin C-terminal 110 kDa subunit; Agrin C-terminal 90 kDa fragment (C90); Agrin C-terminal 22 kDa fragment (C22)]	AGRN AGRIN	Homo sapiens (Human)	2068
+132001	A8MQ03	CRTP1_HUMAN	reviewed	Cysteine-rich tail protein 1	CYSRT1 C9orf169	Homo sapiens (Human)	144
+132004	Q5BKY1	LRC10_HUMAN	reviewed	Leucine-rich repeat-containing protein 10	LRRC10	Homo sapiens (Human)	277
+132005	P59190	RAB15_HUMAN	reviewed	Ras-related protein Rab-15	RAB15	Homo sapiens (Human)	212
+132009	Q6PCB7	S27A1_HUMAN	reviewed	Long-chain fatty acid transport protein 1 (FATP-1) (Fatty acid transport protein 1) (EC 6.2.1.-) (Solute carrier family 27 member 1)	SLC27A1 ACSVL5 FATP1	Homo sapiens (Human)	646
+132014	P61129	ZC3H6_HUMAN	reviewed	Zinc finger CCCH domain-containing protein 6	ZC3H6 KIAA2035 ZC3HDC6	Homo sapiens (Human)	1189
+132016	Q7RTY3	PRS45_HUMAN	reviewed	Serine protease 45 (EC 3.4.21.-) (Testis serine protease 5)	PRSS45 TESSP5	Homo sapiens (Human)	260
+132019	Q6R6M4	U17L2_HUMAN	reviewed	Ubiquitin carboxyl-terminal hydrolase 17 (USP17) (EC 3.4.19.12) (Deubiquitinating enzyme 17-like protein 2) (Deubiquitinating protein 3) (DUB-3) (Ubiquitin carboxyl-terminal hydrolase 17-like protein 2) (Ubiquitin thioesterase 17-like protein 2) (Ubiquitin-specific-processing protease 17-like protein 2)	USP17L2 DUB3 USP17 USP17H USP17I USP17J USP17K USP17L USP17M	Homo sapiens (Human)	530
+132031	Q86UV6	TRI74_HUMAN	reviewed	Tripartite motif-containing protein 74 (Tripartite motif-containing protein 50C)	TRIM74 TRIM50C	Homo sapiens (Human)	250
+132044	Q8N2Z9	CENPS_HUMAN	reviewed	Centromere protein S (CENP-S) (Apoptosis-inducing TAF9-like domain-containing protein 1) (FANCM-associated histone fold protein 1) (FANCM-interacting histone fold protein 1) (Fanconi anemia-associated polypeptide of 16 kDa)	CENPS APITD1 FAAP16 MHF1	Homo sapiens (Human)	138
+132049	Q7RTX7	CTSR4_HUMAN	reviewed	Cation channel sperm-associated protein 4 (CatSper4)	CATSPER4	Homo sapiens (Human)	472
+132073	Q6VVB1	NHLC1_HUMAN	reviewed	E3 ubiquitin-protein ligase NHLRC1 (EC 2.3.2.27) (Malin) (NHL repeat-containing protein 1) (RING-type E3 ubiquitin transferase NHLRC1)	NHLRC1 EPM2B	Homo sapiens (Human)	395
+394227	A8MUX0	KR161_HUMAN	reviewed	Keratin-associated protein 16-1	KRTAP16-1 KAP16.1	Homo sapiens (Human)	517
+132113	Q6ZWB6	KCTD8_HUMAN	reviewed	BTB/POZ domain-containing protein KCTD8	KCTD8	Homo sapiens (Human)	473
+132114	Q8WVF5	KCTD4_HUMAN	reviewed	BTB/POZ domain-containing protein KCTD4	KCTD4	Homo sapiens (Human)	259
+132126	P60409	KR107_HUMAN	reviewed	Keratin-associated protein 10-7 (High sulfur keratin-associated protein 10.7) (Keratin-associated protein 10.7) (Keratin-associated protein 18-7) (Keratin-associated protein 18.7)	KRTAP10-7 KAP10.7 KAP18-7 KRTAP10.7 KRTAP18-7 KRTAP18.7	Homo sapiens (Human)	370
+132128	P60331	KR101_HUMAN	reviewed	Keratin-associated protein 10-1 (High sulfur keratin-associated protein 10.1) (Keratin-associated protein 10.1) (Keratin-associated protein 18-1) (Keratin-associated protein 18.1)	KRTAP10-1 KAP10.1 KAP18-1 KRTAP10.1 KRTAP18-1 KRTAP18.1	Homo sapiens (Human)	282
+132127,132129	P60411	KR109_HUMAN	reviewed	Keratin-associated protein 10-9 (High sulfur keratin-associated protein 10.9) (Keratin-associated protein 10.9) (Keratin-associated protein 18-9) (Keratin-associated protein 18.9)	KRTAP10-9 KAP10.9 KAP18-9 KRTAP10.9 KRTAP18-9 KRTAP18.9	Homo sapiens (Human)	292
+132129	P60412	KR10B_HUMAN	reviewed	Keratin-associated protein 10-11 (High sulfur keratin-associated protein 10.11) (Keratin-associated protein 10.11) (Keratin-associated protein 18-11) (Keratin-associated protein 18.11)	KRTAP10-11 KAP10.11 KAP18-11 KRTAP10.11 KRTAP18-11 KRTAP18.11	Homo sapiens (Human)	298
+132132	P60410	KR108_HUMAN	reviewed	Keratin-associated protein 10-8 (High sulfur keratin-associated protein 10.8) (Keratin-associated protein 10.8) (Keratin-associated protein 18-8) (Keratin-associated protein 18.8)	KRTAP10-8 KAP10.8 KAP18-8 KRTAP10.8 KRTAP18-8 KRTAP18.8	Homo sapiens (Human)	259
+132133	P60369	KR103_HUMAN	reviewed	Keratin-associated protein 10-3 (High sulfur keratin-associated protein 10.3) (Keratin-associated protein 10.3) (Keratin-associated protein 18-3) (Keratin-associated protein 18.3)	KRTAP10-3 KAP10.3 KAP18-3 KRTAP10.3 KRTAP18-3 KRTAP18.3	Homo sapiens (Human)	221
+132135	P60329	KR124_HUMAN	reviewed	Keratin-associated protein 12-4 (High sulfur keratin-associated protein 12.4) (Keratin-associated protein 12.4)	KRTAP12-4 KAP12.4 KRTAP12.4	Homo sapiens (Human)	112
+132150	Q86WK7	AMGO3_HUMAN	reviewed	Amphoterin-induced protein 3 (AMIGO-3) (Alivin-3)	AMIGO3 ALI3 KIAA1851 UNQ6084/PRO20089	Homo sapiens (Human)	504
+132179	Q969J2	ZKSC4_HUMAN	reviewed	Zinc finger protein with KRAB and SCAN domains 4 (P373c6.1) (Zinc finger protein 307) (Zinc finger protein 427)	ZKSCAN4 ZNF307 ZNF427	Homo sapiens (Human)	545
+132223	Q6EEV6	SUMO4_HUMAN	reviewed	Small ubiquitin-related modifier 4 (SUMO-4) (Small ubiquitin-like protein 4)	SUMO4 SMT3H4	Homo sapiens (Human)	95
+132240	Q5EE01	CENPW_HUMAN	reviewed	Centromere protein W (CENP-W) (Cancer-up-regulated gene 2 protein)	CENPW C6orf173 CUG2	Homo sapiens (Human)	88
+132241	Q5TF21	SOGA3_HUMAN	reviewed	Protein SOGA3	SOGA3 C6orf174	Homo sapiens (Human)	947
+132255	Q5SZL2	CE85L_HUMAN	reviewed	Centrosomal protein of 85 kDa-like (Serologically defined breast cancer antigen NY-BR-15)	CEP85L C6orf204	Homo sapiens (Human)	805
+132265	Q7Z4R8	CF120_HUMAN	reviewed	UPF0669 protein C6orf120	C6orf120	Homo sapiens (Human)	191
+132286	Q6SJ96	TBPL2_HUMAN	reviewed	TATA box-binding protein-like protein 2 (TBP-like protein 2) (TATA box-binding protein-related factor 3) (TBP-related factor 3)	TBPL2 TBP2 TRF3	Homo sapiens (Human)	375
+132288	Q96CB9	NSUN4_HUMAN	reviewed	5-methylcytosine rRNA methyltransferase NSUN4 (EC 2.1.1.-) (NOL1/NOP2/Sun domain family member 4)	NSUN4	Homo sapiens (Human)	384
+132289	Q8N1K5	THMS1_HUMAN	reviewed	Protein THEMIS (Thymocyte-expressed molecule involved in selection)	THEMIS C6orf190 C6orf207	Homo sapiens (Human)	641
+132307	Q6T310	RSLBA_HUMAN	reviewed	Ras-like protein family member 11A	RASL11A	Homo sapiens (Human)	242
+132320,132321	A5PLL7	TM189_HUMAN	reviewed	Transmembrane protein 189	TMEM189 KUA	Homo sapiens (Human)	270
+132321	Q13404	UB2V1_HUMAN	reviewed	Ubiquitin-conjugating enzyme E2 variant 1 (UEV-1) (CROC-1) (TRAF6-regulated IKK activator 1 beta Uev1A)	UBE2V1 CROC1 UBE2V UEV1 P/OKcl.19	Homo sapiens (Human)	147
+132378	Q1XH10	SKDA1_HUMAN	reviewed	SKI/DACH domain-containing protein 1 (Protein DLN-1)	SKIDA1 C10orf140 DLN1	Homo sapiens (Human)	908
+132390	Q641Q2	WAC2A_HUMAN	reviewed	WASH complex subunit 2A	WASHC2A FAM21A FAM21B	Homo sapiens (Human)	1341
+132412	Q5VZQ5	TEX36_HUMAN	reviewed	Testis-expressed protein 36	TEX36 C10orf122	Homo sapiens (Human)	186
+132426	Q1MX18	INSC_HUMAN	reviewed	Protein inscuteable homolog	INSC	Homo sapiens (Human)	579
+132471	Q52MB2	CC184_HUMAN	reviewed	Coiled-coil domain-containing protein 184	CCDC184 C12orf68	Homo sapiens (Human)	194
+132482	Q8TAD7	OCC1_HUMAN	reviewed	Overexpressed in colon carcinoma 1 protein (OCC-1) (AGD3)	OCC1 C12orf75	Homo sapiens (Human)	63
+132490	Q9NQR1	KMT5A_HUMAN	reviewed	N-lysine methyltransferase KMT5A (EC 2.1.1.-) (H4-K20-HMTase KMT5A) (Histone-lysine N-methyltransferase KMT5A) (EC 2.1.1.43) (Lysine N-methyltransferase 5A) (Lysine-specific methylase 5A) (PR/SET domain-containing protein 07) (PR-Set7) (PR/SET07) (SET domain-containing protein 8)	KMT5A PRSET7 SET07 SET8 SETD8	Homo sapiens (Human)	393
+132501	B2RNN3	C1T9B_HUMAN	reviewed	Complement C1q and tumor necrosis factor-related protein 9B (C1q/TNF-related protein 9B) (CTRP9B) (Complement C1q and tumor necrosis factor-related protein 9-like)	C1QTNF9B	Homo sapiens (Human)	333
+132503	Q6UWI4	SHSA2_HUMAN	reviewed	Protein shisa-2 homolog (Transmembrane protein 46)	SHISA2 C13orf13 TMEM46 UNQ9166/PRO28631	Homo sapiens (Human)	295
+132506	Q5JS37	NHLC3_HUMAN	reviewed	NHL repeat-containing protein 3	NHLRC3	Homo sapiens (Human)	347
+132508	Q8N6R1	SERP2_HUMAN	reviewed	Stress-associated endoplasmic reticulum protein 2 (Ribosome-associated membrane protein RAMP4-2)	SERP2 C13orf21	Homo sapiens (Human)	65
+132529	Q6UXN7	TO20L_HUMAN	reviewed	TOMM20-like protein 1	TOMM20L UNQ9438/PRO34772	Homo sapiens (Human)	152
+132539	A6NKG5	RTL1_HUMAN	reviewed	Retrotransposon-like protein 1 (Mammalian retrotransposon derived protein 1) (Paternally expressed gene 11 protein) (Retrotransposon-derived protein PEG11)	RTL1 MAR1 MART1 PEG11	Homo sapiens (Human)	1358
+132557	Q6ZUT6	CCD9B_HUMAN	reviewed	Coiled-coil domain-containing protein 9B	CCDC9B C15orf52	Homo sapiens (Human)	534
+132568	Q2T9L4	INSY1_HUMAN	reviewed	Inhibitory synaptic factor 1 (InSyn1)	INSYN1 C15orf59	Homo sapiens (Human)	293
+132609	Q52WX2	SBK1_HUMAN	reviewed	Serine/threonine-protein kinase SBK1 (EC 2.7.11.1) (SH3-binding kinase 1)	SBK1	Homo sapiens (Human)	424
+132622	Q6PH81	CP087_HUMAN	reviewed	UPF0547 protein C16orf87	C16orf87	Homo sapiens (Human)	154
+132642	Q0VD86	INCA1_HUMAN	reviewed	Protein INCA1 (Inhibitor of CDK interacting with cyclin A1)	INCA1 HSD45	Homo sapiens (Human)	236
+132643	Q6UWF3	SCIMP_HUMAN	reviewed	SLP adapter and CSK-interacting membrane protein (SLP65/SLP76, Csk-interacting membrane protein)	SCIMP C17orf87 UNQ5783/PRO16090	Homo sapiens (Human)	145
+132647	Q6QAJ8	TM220_HUMAN	reviewed	Transmembrane protein 220	TMEM220	Homo sapiens (Human)	160
+132670	Q8IW40	CC103_HUMAN	reviewed	Coiled-coil domain-containing protein 103	CCDC103	Homo sapiens (Human)	242
+132675	Q96QA6	YPEL2_HUMAN	reviewed	Protein yippee-like 2	YPEL2 FKSG4	Homo sapiens (Human)	119
+132677	Q86X59	CQ082_HUMAN	reviewed	Putative uncharacterized protein C17orf82	C17orf82	Homo sapiens (Human)	251
+132700	B2RU33	POTEC_HUMAN	reviewed	POTE ankyrin domain family member C (ANKRD26-like family B member 2) (Prostate, ovary, testis-expressed protein on chromosome 18) (POTE-18)	POTEC A26B2 POTE18	Homo sapiens (Human)	542
+132718	Q6ZS10	CL17A_HUMAN	reviewed	C-type lectin domain family 17, member A (Prolectin)	CLEC17A	Homo sapiens (Human)	378
+132727	Q6ZS82	R9BP_HUMAN	reviewed	Regulator of G-protein signaling 9-binding protein (RGS9-anchoring protein)	RGS9BP R9AP	Homo sapiens (Human)	235
+132730	Q6PG37	ZN790_HUMAN	reviewed	Zinc finger protein 790	ZNF790	Homo sapiens (Human)	636
+132736	Q6QNY0	BL1S3_HUMAN	reviewed	Biogenesis of lysosome-related organelles complex 1 subunit 3 (BLOC-1 subunit 3)	BLOC1S3 BLOS3	Homo sapiens (Human)	202
+132741	Q8N4W9	ZN808_HUMAN	reviewed	Zinc finger protein 808	ZNF808	Homo sapiens (Human)	903
+132744	Q86XN6	ZN761_HUMAN	reviewed	Zinc finger protein 761	ZNF761 KIAA2033	Homo sapiens (Human)	746
+132751	Q6AW86	Z324B_HUMAN	reviewed	Zinc finger protein 324B	ZNF324B	Homo sapiens (Human)	544
+132759	Q5TA89	HES5_HUMAN	reviewed	Transcription factor HES-5 (Class B basic helix-loop-helix protein 38) (bHLHb38) (Hairy and enhancer of split 5)	HES5 BHLHB38	Homo sapiens (Human)	166
+132764	Q6ZRF8	RN207_HUMAN	reviewed	RING finger protein 207	RNF207 C1orf188	Homo sapiens (Human)	634
+132771	Q6UWJ8	C16L2_HUMAN	reviewed	CD164 sialomucin-like 2 protein	CD164L2 UNQ6122/PRO20044	Homo sapiens (Human)	174
+132783	Q5T700	LRAD1_HUMAN	reviewed	Low-density lipoprotein receptor class A domain-containing protein 1	LDLRAD1	Homo sapiens (Human)	205
+132790	Q8N8V2	GBP7_HUMAN	reviewed	Guanylate-binding protein 7 (GTP-binding protein 7) (GBP-7) (Guanine nucleotide-binding protein 7) (Guanylate-binding protein 4-like)	GBP7 GBP4L	Homo sapiens (Human)	638
+132793	Q5T7M9	FA69A_HUMAN	reviewed	Protein FAM69A	FAM69A	Homo sapiens (Human)	428
+132802	Q7Z3S9	NT2NA_HUMAN	reviewed	Notch homolog 2 N-terminal-like protein A (Notch homolog 2 N-terminal-like protein)	NOTCH2NLA N2N NOTCH2NL	Homo sapiens (Human)	236
+132813	Q96S90	LYSM1_HUMAN	reviewed	LysM and putative peptidoglycan-binding domain-containing protein 1	LYSMD1 SB145	Homo sapiens (Human)	227
+132814	Q86YZ3	HORN_HUMAN	reviewed	Hornerin	HRNR S100A18	Homo sapiens (Human)	2850
+132815	Q5D862	FILA2_HUMAN	reviewed	Filaggrin-2 (FLG-2) (Intermediate filament-associated and psoriasis-susceptibility protein) (Ifapsoriasin)	FLG2 IFPS	Homo sapiens (Human)	2391
+132817	Q5VU69	CA189_HUMAN	reviewed	Uncharacterized protein C1orf189	C1orf189	Homo sapiens (Human)	101
+132835	A6NHC0	CAN8_HUMAN	reviewed	Calpain-8 (EC 3.4.22.53) (New calpain 2) (nCL-2) (Stomach-specific M-type calpain)	CAPN8 NCL2	Homo sapiens (Human)	703
+132839	Q5JTJ3	COA6_HUMAN	reviewed	Cytochrome c oxidase assembly factor 6 homolog	COA6 C1orf31	Homo sapiens (Human)	125
+132867	Q6PEX3	KR261_HUMAN	reviewed	Keratin-associated protein 26-1	KRTAP26-1 KAP26.1	Homo sapiens (Human)	210
+132908	A6NGG8	PCARE_HUMAN	reviewed	Photoreceptor cilium actin regulator	PCARE C2orf71	Homo sapiens (Human)	1288
+132915	Q8N831	TSYL6_HUMAN	reviewed	Testis-specific Y-encoded-like protein 6 (TSPY-like protein 6)	TSPYL6	Homo sapiens (Human)	410
+132922	Q53S33	BOLA3_HUMAN	reviewed	BolA-like protein 3	BOLA3	Homo sapiens (Human)	107
+132926	Q2NKX9	CB068_HUMAN	reviewed	UPF0561 protein C2orf68	C2orf68	Homo sapiens (Human)	166
+132934	Q6AI14	SL9A4_HUMAN	reviewed	Sodium/hydrogen exchanger 4 (Na(+)/H(+) exchanger 4) (NHE-4) (Solute carrier family 9 member 4)	SLC9A4 NHE4	Homo sapiens (Human)	798
+132951	Q6BEB4	SP5_HUMAN	reviewed	Transcription factor Sp5	SP5	Homo sapiens (Human)	398
+132963	Q6UX34	SNORC_HUMAN	reviewed	Protein SNORC (Secondary ossification center-associated regulator of chondrocyte maturation protein)	SNORC C2orf82 UNQ830/PRO1757	Homo sapiens (Human)	121
+132979	Q6ZS27	ZN662_HUMAN	reviewed	Zinc finger protein 662	ZNF662	Homo sapiens (Human)	426
+132984	Q96EL1	INKA1_HUMAN	reviewed	PAK4-inhibitor INKA1 (Induced in neural crest by AP2-alpha protein homolog) (HInca) (Inka box actin regulator 1)	INKA1 C3orf54 FAM212A	Homo sapiens (Human)	285
+132986	Q8IXL9	IQCF2_HUMAN	reviewed	IQ domain-containing protein F2	IQCF2	Homo sapiens (Human)	164
+132988	Q8IVN3	MSTN1_HUMAN	reviewed	Musculoskeletal embryonic nuclear protein 1	MUSTN1	Homo sapiens (Human)	82
+132991	A8MV65	VGLL3_HUMAN	reviewed	Transcription cofactor vestigial-like protein 3 (Vgl-3)	VGLL3	Homo sapiens (Human)	326
+133002	Q6ZRT6	PR23B_HUMAN	reviewed	Proline-rich protein 23B	PRR23B	Homo sapiens (Human)	265
+133009	A6NFN9	ANKUB_HUMAN	reviewed	Protein ANKUB1 (Ankyrin repeat and ubiquitin domain-containing 1)	ANKUB1 C3orf16	Homo sapiens (Human)	502
+133020	A6NML5	TM212_HUMAN	reviewed	Transmembrane protein 212	TMEM212	Homo sapiens (Human)	194
+133034	Q8N5G0	SIM20_HUMAN	reviewed	Small integral membrane protein 20 (Mitochondrial translation regulation assembly intermediate of cytochrome c oxidase protein of 7 kDa) (MITRAC7)	SMIM20 C4orf52 MITRAC7	Homo sapiens (Human)	67
+133036	Q6ZU67	BEND4_HUMAN	reviewed	BEN domain-containing protein 4 (Coiled-coil domain-containing protein 4)	BEND4 CCDC4	Homo sapiens (Human)	534
+133074	Q3ZCQ2	AX2R_HUMAN	reviewed	Annexin-2 receptor (Annexin II receptor) (AXIIR)	ANXA2R AX2R C5orf39	Homo sapiens (Human)	193
+133099	Q6UWT4	CE046_HUMAN	reviewed	Uncharacterized protein C5orf46	C5orf46 UNQ472/PRO839	Homo sapiens (Human)	87
+133100	A1IGU5	ARH37_HUMAN	reviewed	Rho guanine nucleotide exchange factor 37	ARHGEF37	Homo sapiens (Human)	675
+133110	Q5JS54	PSMG4_HUMAN	reviewed	Proteasome assembly chaperone 4 (PAC-4) (hPAC4)	PSMG4 C6orf86 PAC4	Homo sapiens (Human)	123
+133117	Q6UW10	SFTA2_HUMAN	reviewed	Surfactant-associated protein 2 (Surfactant-associated protein G) (SP-G)	SFTA2 SFTPG UNQ541/PRO1098	Homo sapiens (Human)	78
+133128	Q5SZD4	GLYL3_HUMAN	reviewed	Glycine N-acyltransferase-like protein 3 (EC 2.3.1.-)	GLYATL3 C6orf140	Homo sapiens (Human)	288
+133142	Q6ZN17	LN28B_HUMAN	reviewed	Protein lin-28 homolog B (Lin-28B)	LIN28B CSDD2	Homo sapiens (Human)	250
+133150	Q6PHW0	IYD1_HUMAN	reviewed	Iodotyrosine deiodinase 1 (IYD-1) (EC 1.21.1.1) (Iodotyrosine dehalogenase 1)	IYD C6orf71 DEHAL1	Homo sapiens (Human)	289
+133162	A6NFI3	ZN316_HUMAN	reviewed	Zinc finger protein 316	ZNF316	Homo sapiens (Human)	1004
+133172	Q6EKJ0	GTD2B_HUMAN	reviewed	General transcription factor II-I repeat domain-containing protein 2B (GTF2I repeat domain-containing protein 2B) (Transcription factor GTF2IRD2-beta)	GTF2IRD2B	Homo sapiens (Human)	949
+133178	Q0VGL1	LTOR4_HUMAN	reviewed	Ragulator complex protein LAMTOR4 (Late endosomal/lysosomal adaptor and MAPK and MTOR activator 4) [Cleaved into: Ragulator complex protein LAMTOR4, N-terminally processed]	LAMTOR4 C7orf59	Homo sapiens (Human)	99
+133180	A0PJY2	FEZF1_HUMAN	reviewed	Fez family zinc finger protein 1 (Zinc finger protein 312B)	FEZF1 FEZ ZNF312B	Homo sapiens (Human)	475
+133227	Q8IXT5	RB12B_HUMAN	reviewed	RNA-binding protein 12B (RNA-binding motif protein 12B)	RBM12B	Homo sapiens (Human)	1001
+133232	Q6ZUA9	MROH5_HUMAN	reviewed	Maestro heat-like repeat family member 5	MROH5	Homo sapiens (Human)	1318
+133233	Q8NHW3	MAFA_HUMAN	reviewed	Transcription factor MafA (Pancreatic beta-cell-specific transcriptional activator) (RIPE3b1 factor) (V-maf musculoaponeurotic fibrosarcoma oncogene homolog A)	MAFA	Homo sapiens (Human)	353
+133276	Q6ZQR2	CFA77_HUMAN	reviewed	Cilia- and flagella-associated protein 77	CFAP77 C9orf171	Homo sapiens (Human)	320
+133279	Q6UWW0	LCN15_HUMAN	reviewed	Lipocalin-15	LCN15 UNQ2541/PRO6093	Homo sapiens (Human)	184
+133293	Q6ZN16	M3K15_HUMAN	reviewed	Mitogen-activated protein kinase kinase kinase 15 (EC 2.7.11.25) (Apoptosis signal-regulating kinase 3) (MAPK/ERK kinase kinase 15) (MEK kinase 15) (MEKK 15)	MAP3K15 ASK3	Homo sapiens (Human)	1313
+133302	A6NNY8	UBP27_HUMAN	reviewed	Ubiquitin carboxyl-terminal hydrolase 27 (EC 3.4.19.12) (Deubiquitinating enzyme 27) (Ubiquitin carboxyl-terminal hydrolase 22-like) (Ubiquitin thioesterase 27) (Ubiquitin-specific-processing protease 27) (X-linked ubiquitin carboxyl-terminal hydrolase 27)	USP27X USP22L USP27	Homo sapiens (Human)	438
+133309	Q8WW36	ZCH13_HUMAN	reviewed	Zinc finger CCHC domain-containing protein 13	ZCCHC13	Homo sapiens (Human)	166
+133317	Q5JXB2	UE2NL_HUMAN	reviewed	Putative ubiquitin-conjugating enzyme E2 N-like (Epididymis tissue protein Li 174)	UBE2NL	Homo sapiens (Human)	153
+133321	Q9Y5P2	CSAG2_HUMAN	reviewed	Chondrosarcoma-associated gene 2/3 protein (Cancer/testis antigen 24.2) (CT24.2) (Taxol-resistant-associated gene 3 protein) (TRAG-3)	CSAG2 TRAG3; CSAG3 CSAG3A	Homo sapiens (Human)	127
+133405	Q8NH49	OR4X1_HUMAN	reviewed	Olfactory receptor 4X1 (Olfactory receptor OR11-104)	OR4X1	Homo sapiens (Human)	305
+133421	Q8N162	OR8H2_HUMAN	reviewed	Olfactory receptor 8H2 (Olfactory receptor OR11-171)	OR8H2	Homo sapiens (Human)	312
+133424	Q8NG75	OR5T1_HUMAN	reviewed	Olfactory receptor 5T1 (Olfactory receptor OR11-179)	OR5T1 OR5T1P	Homo sapiens (Human)	326
+133517	A6NIJ9	O6C70_HUMAN	reviewed	Olfactory receptor 6C70	OR6C70	Homo sapiens (Human)	312
+133570	P60153	RNAS9_HUMAN	reviewed	Inactive ribonuclease-like protein 9	RNASE9	Homo sapiens (Human)	205
+133620	C9JR72	KBTBD_HUMAN	reviewed	Kelch repeat and BTB domain-containing protein 13	KBTBD13	Homo sapiens (Human)	458
+133642	Q6ZNW5	GDPP1_HUMAN	reviewed	GDP-D-glucose phosphorylase 1 (EC 2.7.7.78)	GDPGP1 C15orf58	Homo sapiens (Human)	385
+133653	P60827	C1QT8_HUMAN	reviewed	Complement C1q tumor necrosis factor-related protein 8 (C1q/TNF-related protein 8) (CTRP8)	C1QTNF8 UNQ5829/PRO19648	Homo sapiens (Human)	252
+133721	Q8NG95	OR7G3_HUMAN	reviewed	Olfactory receptor 7G3 (OST085) (Olfactory receptor OR19-9)	OR7G3	Homo sapiens (Human)	312
+133735	A8MXV4	NUD19_HUMAN	reviewed	Nucleoside diphosphate-linked moiety X motif 19 (Nudix motif 19) (EC 3.6.1.-)	NUDT19	Homo sapiens (Human)	375
+133738	Q6ZN11	ZN793_HUMAN	reviewed	Zinc finger protein 793	ZNF793	Homo sapiens (Human)	406
+133739	Q6ZNF0	ACP7_HUMAN	reviewed	Acid phosphatase type 7 (EC 3.1.3.2) (Purple acid phosphatase long form)	ACP7 PAPL PAPL1	Homo sapiens (Human)	438
+133751	Q5CZA5	ZN805_HUMAN	reviewed	Zinc finger protein 805	ZNF805	Homo sapiens (Human)	627
+133764	Q5VTA0	PRA17_HUMAN	reviewed	PRAME family member 17	PRAMEF17	Homo sapiens (Human)	474
+133800	Q6RSH7	VHLL_HUMAN	reviewed	von Hippel-Lindau-like protein (VHL-like protein) (VLP)	VHLL VLP	Homo sapiens (Human)	139
+133896	Q6GMV3	PTRD1_HUMAN	reviewed	Putative peptidyl-tRNA hydrolase PTRHD1 (EC 3.1.1.29) (Peptidyl-tRNA hydrolase domain-containing protein 1)	PTRHD1 C2orf79	Homo sapiens (Human)	140
